@@ -1,4 +1,4 @@
-🔍 LLM-Driven Sentiment Cognition
+#🔍 LLM-Driven Sentiment Cognition
 M.Tech Project | IIT Patna | Kumar Pancham Prasar
 
 This project explores sentiment classification of customer reviews using Google’s Gemini 1.5 Pro LLM. The model predicts positive (1) or negative (0) sentiment labels from Amazon Alexa product reviews.
